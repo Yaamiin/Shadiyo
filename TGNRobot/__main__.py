@@ -76,13 +76,13 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ʜᴏɪ, ɪ ᴍ ᴛɢɴ ʀᴏʙᴏᴛ
 `ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
- [❤](https://telegra.ph/file/cab6825dea9263d347831.jpg)
+ [❤](https://telegra.ph/file/be921c63c1e642204adb5.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴛɢɴ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/TGN_Ro_bot?startgroup=true"),
+            text="ᴀᴅᴅ 𝖲𝗁𝖺𝖽𝗂𝗒𝗈 ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SHADIYObot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ 💫", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
@@ -91,9 +91,9 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/The_Godfather_Network"),
+        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/somalimusicbot"),
         InlineKeyboardButton(
-            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/greatpersonxd"
+            text="ᴛɢɴ ᴄʜᴀᴛ", url=f"https://t.me/Somalibots_help"
         ),
     ],
     [
@@ -104,7 +104,7 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/cab6825dea9263d347831.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/be921c63c1e642204adb5.jpg)"""
 
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>Zaid is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>SHADIYA is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -359,7 +359,7 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [TGN Robot](t.me/TGN_Ro_bot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [SHADIYO Robot](t.me/SHADIYObot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -395,7 +395,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [Robot](t.me/TGN_Ro_Bot)
+            text=""" Hi..🤗 I am [Robot](t.me/SHADIYObot)
                  \nHere is the [Source Code](https://github.com/Itsunknown-12/TGN-Robot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
