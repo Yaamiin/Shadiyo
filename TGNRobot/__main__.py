@@ -82,10 +82,10 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ 𝖲𝗁𝖺𝖽𝗂𝗒𝗈 ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SHADIYObot?startgroup=true"),
+            text="ᴀᴅᴅ Sʜᴀᴅɪʏᴏ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SHADIYObot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ 💫", url=f"https://github.com/Itsunknown-12/TGN-Robot"),
+        InlineKeyboardButton(text=" Dᴇᴠᴇʟᴏᴘᴇʀ💫", url=f"https://t.me/Yaamiin"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
