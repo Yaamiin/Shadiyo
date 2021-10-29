@@ -86,7 +86,7 @@ def _check_member(client, message):
             except UserNotParticipant:
                 try:
                     sent_message = message.reply_text(
-                        "Welcome {} 🙏 \n **Wali ma adan galin @{} Channel ** 😭 \n \nFadlan gal [Our Channel](https://t.me/{}) Kadib tabo unmute **UNMUTE ME** Button si mute aad uga baxdo. \n \n ".format(
+                        "Welcome {} 🙏 \n **Wali ma adan galin @{} Channel ** 😭 \n \nFadlan gal [Our Channel](https://t.me/{}) Kadib tabo  **UNMUTE ME** Button si muteka aad uga baxdo. \n \n ".format(
                             message.from_user.mention, channel, channel
                         ),
                         disable_web_page_preview=True,
