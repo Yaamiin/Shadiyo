@@ -85,13 +85,13 @@ buttons = [
             text="ᴀᴅᴅ Sʜᴀᴅɪʏᴏ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SHADIYObot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text=" Dᴇᴠᴇʟᴏᴘᴇʀ💫", url=f"https://t.me/Yaamiin"),
+        InlineKeyboardButton(text="ɪᴅɪʀɪsᴋᴀ ɴᴏ ᴛᴀʙᴏ💫", url=f"https://t.me/Somalimusicbot"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇꜱ ☑️", url=f"https://t.me/somalimusicbot"),
+        InlineKeyboardButton(text="Oᴡɴᴇʀ 💜", url=f"https://t.me/Yaamiin"),
         InlineKeyboardButton(
             text="Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ📶", url=f"https://t.me/Somalihacker1"
         ),
@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>SHADIYA is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>ᴡᴀɴ ᴊᴏɢᴀ ❤\n ᴍᴀ sᴇxᴀɴ </code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
