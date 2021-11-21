@@ -85,7 +85,7 @@ buttons = [
             text="ᴀᴅᴅ Sʜᴀᴅɪʏᴏ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SHADIYObot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ɪᴅɪʀɪsᴋᴀ ɴᴏ ᴛᴀʙᴏ💫", url=f"https://t.me/Somalibot"),
+        InlineKeyboardButton(text="ɪᴅɪʀɪsᴋᴀ ɴᴏ ᴛᴀʙᴏ💫", url=f"https://t.me/Somalibots"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
@@ -93,7 +93,7 @@ buttons = [
     [
         InlineKeyboardButton(text="Nɪɴᴋᴀ😈 Bᴏᴛᴋᴀ Lᴇʜ 💜", url=f"https://t.me/AttackTor"),
         InlineKeyboardButton(
-            text="Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ📶", url=f"https://t.me/@Somaliprogrammer"
+            text="💎Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ📶", url=f"https://t.me/Somaliprogrammer"
         ),
     ],
     [
