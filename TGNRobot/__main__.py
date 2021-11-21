@@ -85,15 +85,15 @@ buttons = [
             text="ᴀᴅᴅ Sʜᴀᴅɪʏᴏ ʀᴏʙᴏᴛ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/SHADIYObot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ɪᴅɪʀɪsᴋᴀ ɴᴏ ᴛᴀʙᴏ💫", url=f"https://t.me/Somalimusicbot"),
+        InlineKeyboardButton(text="ɪᴅɪʀɪsᴋᴀ ɴᴏ ᴛᴀʙᴏ💫", url=f"https://t.me/Somalibot"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
-        InlineKeyboardButton(text="Nɪɴᴋᴀ😈 Bᴏᴛᴋᴀ Lᴇʜ 💜", url=f"https://t.me/Yaamiin"),
+        InlineKeyboardButton(text="Nɪɴᴋᴀ😈 Bᴏᴛᴋᴀ Lᴇʜ 💜", url=f"https://t.me/AttackTor"),
         InlineKeyboardButton(
-            text="Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ📶", url=f"https://t.me/Somalihacker1"
+            text="Sᴇᴄᴏɴᴅ Oᴡɴᴇʀ📶", url=f"https://t.me/@Somaliprogrammer"
         ),
     ],
     [
