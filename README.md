@@ -30,7 +30,7 @@
 
 ## 🆂🆄🅿🅿🅾🆁🆃
 [![Somalibots](https://img.shields.io/badge/Somali-Channel-red?style=for-the-badge&logo=telegram)](https://t.meSomalibots)</br></br>
-[![Zaid](https://img.shields.io/badge/Superior-Group-red?style=for-the-badge&logo=telegram)](https://t.me/Somalibots_help)</br></br>
+[![Zaid](https://img.shields.io/badge/Somali-Group-red?style=for-the-badge&logo=telegram)](https://t.me/Somalibots_help)</br></br>
 [![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ekso_opp)
 
 ## 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🅲🅾🅳🅴🆂...
